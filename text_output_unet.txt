@@ -1,0 +1,35 @@
+Running on device: cuda
+Copied and renamed files for 168 training and 42 validation IDs.
+Number of training images: 210
+Number of validation images: 122
+Inference and saving completed.
+File: inference_0059.tif
+  Min: 1.372061888105236e-05
+  Max: 0.9799939393997192
+  Median: 0.19901567697525024
+
+
+File: inference_0203.tif
+  Min: 0.000146881997352466
+  Max: 0.9612254500389099
+  Median: 0.006163901183754206
+
+
+File: inference_0018.tif
+  Min: 3.303658559161704e-06
+  Max: 0.9935265779495239
+  Median: 0.0039699990302324295
+
+
+File: inference_0164.tif
+  Min: 1.3798247891827486e-05
+  Max: 0.9808158278465271
+  Median: 0.006908089853823185
+
+
+File: inference_0025.tif
+  Min: 3.5153404951415723e-06
+  Max: 0.9672128558158875
+  Median: 0.00486187357455492
+
+
