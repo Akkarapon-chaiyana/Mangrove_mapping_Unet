@@ -1,4 +1,4 @@
 This script is to run binary segmentation using GPU. 
 
-The folder of banary files should prepare as 512 x 512 size
+The folder of banary files should prepare as 512 x 512 size and Sentinel-2 (10 bands)
 
