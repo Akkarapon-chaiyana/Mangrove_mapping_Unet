@@ -7,7 +7,7 @@ for (var year = 2023; year <= 2024; year++){
   Map.addLayer(image.selfMask(), {min: 0, max: 1, palette: ['white', 'yellow', 'orange', 'red', 'purple']}, "Vietnam "+year, false);
 }
 
-var vectors = possible_Mangrove.merge(Mangrove);
+var vectors = aoi;
 Map.addLayer(vectors, {}, 'merged data', false);
 
 // Specify a non-zero error margin here
